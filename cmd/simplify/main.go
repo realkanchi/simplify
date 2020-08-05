@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/fogleman/simplify"
+	"github.com/realkanchi/simplify"
 )
 
 var factor float64
